@@ -1,0 +1,27 @@
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <title>Abdallah Dindi</title>
+  </head>
+  <body>
+    <h1 align=left>
+      Abdallah Dindi
+    </h1>
+    <h2 align=left> Researcher </h2>
+
+<p>
+    <h2 align=left>
+      Home
+      <p> <a href="resume.html"> Resume </a> </p>
+      <p> <a href="publications.html"> Publications </a> </p>
+      <p> <a href="projects.html"> Projects </a> </p>
+    </h2>
+</p>
+    <img align=center src="C:\Users\adindi\OneDrive - Masdar Institute\Pictures\EY\Shadowpp 2269.jpg" width=65% height=90%/>
+
+    <p> Social Profiles </p>
+    <p>  <a href="https://www.researchgate.net/profile/Abdallah_Dindi" target="_blank"> ResearchGate </a></p>
+    <p>  <a href="https://scholar.google.ae/citations?user=ElfsUIkAAAAJ&hl=en" target="_blank"> Google scholar </a></p>
+    <p>  <a href="https://www.linkedin.com/in/abdallah-dindi-309bbb43/" target="_blank"> LinkedIN </a></p>
+  </body>
+</html>

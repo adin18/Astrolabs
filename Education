@@ -1,0 +1,41 @@
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <title>Abdallah Dindi</title>
+  </head>
+  <body>
+    <h1 align=left>
+      Education
+    </h1>
+    <h2 align=left> Scientist
+      Home
+      Resume
+      Publications </h2>
+
+    <h2> Education </h2>
+    <ul>
+      <li> <h2> Khalifa University </h2> </li>
+      <li> Masdar Institute </li>
+      <li> University of Lagos </li>
+
+    </ul>
+    <h2> Work Experience </h2>
+
+
+    <ul>
+      <li> <h3> Khalifa University </h3> </li>
+      <li> <h4> Research Engineer </h4> </li>
+      <li> Masdar Institute </li>
+      <li> University of Lagos </li>
+
+    </ul>
+
+
+    <p> Skills </p>
+
+    <p> Social Profiles </p>
+    <p>  <a href="https://twitter.com/Dindiola" target="_blank"> Twitter </a></p>
+    <p>  <a href="https://www.facebook.com/abdallah.dindi" target="_blank"> Facebook </a></p>
+    <p>  <a href="https://www.linkedin.com/in/abdallah-dindi-309bbb43/" target="_blank"> LinkedIN </a></p>
+  </body>
+</html>
